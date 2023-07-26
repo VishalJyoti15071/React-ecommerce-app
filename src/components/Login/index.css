@@ -1,0 +1,11 @@
+.logout-desktop-btn {
+  padding: 7px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: transparent;
+  border: 1px solid #34cc67;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
